@@ -1,0 +1,9 @@
+..\..\output\skin.o: ..\..\User\skin.c
+..\..\output\skin.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\GUI.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\Config\GUIConf.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\GUI_Type.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\LCD.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\Global.h
+..\..\output\skin.o: ..\..\Middlewares\STemWin\inc\GUI_Version.h

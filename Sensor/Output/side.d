@@ -1,0 +1,9 @@
+..\..\output\side.o: ..\..\User\side.c
+..\..\output\side.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\GUI.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\Config\GUIConf.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\GUI_Type.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\LCD.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\Global.h
+..\..\output\side.o: ..\..\Middlewares\STemWin\inc\GUI_Version.h

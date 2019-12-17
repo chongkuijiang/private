@@ -1,0 +1,9 @@
+..\..\output\power2.o: ..\..\User\power2.c
+..\..\output\power2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\GUI.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\Config\GUIConf.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\GUI_Type.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\LCD.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\Global.h
+..\..\output\power2.o: ..\..\Middlewares\STemWin\inc\GUI_Version.h

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">模具追踪</string>
+    <string name="all_cancel">取消</string>
+    <string name="all_sure">确定</string>
+    <string name="tityEn_name">设备名称</string>
+    <string name="tityEn_phon">电话号码</string>
+    <string name="tityEn_creatTime">创建时间</string>
+    <string name="trace_len">轨迹长度</string>
+
+    <string name="tity_name">名称:</string>
+    <string name="tity_phon">电话:</string>
+    <string name="tity_Adr">地址:</string>
+    <string name="tity_Location">位置:</string>
+
+    <string name="encode_qrcode">生成二维码</string>
+    <string name="dencode_qrcode">扫描二维码</string>
+    <string name="code_text">请输入生成二维码的文本信息</string>
+    <string name="qrcodetext">这里显示扫描结果</string>
+
+</resources>

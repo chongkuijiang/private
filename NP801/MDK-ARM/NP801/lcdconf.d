@@ -1,0 +1,11 @@
+np801\lcdconf.o: ..\Middlewares\STemWin\Config\LCDConf.c
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\GUI.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\GUI_ConfDefaults.h
+np801\lcdconf.o: ..\Middlewares\STemWin\Config\GUIConf.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\GUI_Type.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\LCD.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\Global.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\GUI_Version.h
+np801\lcdconf.o: ..\Middlewares\STemWin\inc\GUIDRV_Lin.h
+np801\lcdconf.o: ../Inc/LCD_MD070SD.h
+np801\lcdconf.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
